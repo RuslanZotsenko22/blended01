@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Luxurious Rubber Shirt",
+    "price": "874.49",
+    "category": "Computers",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "name": "Recycled Metal Gloves",
+    "price": "594.15",
+    "category": "Sports",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "name": "Electronic Wooden Pizza",
+    "price": "881.95",
+    "category": "Toys",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  }
+]
