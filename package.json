@@ -12,6 +12,7 @@
     "count": "node src/scripts/countProducts.js",
     "clear": "node src/scripts/clearProducts.js",
     "remove-random": "node src/scripts/removeRandomProduct.js"
+    
   },
   "keywords": [],
   "author": "Ruslan Zotsenko <justmymail989@gmail.com>",
